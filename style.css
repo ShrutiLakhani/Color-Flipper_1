@@ -1,0 +1,21 @@
+.nav-center
+{
+    
+    
+}
+
+.li-align
+{
+    display: inline;
+    text-align: right;
+    text-decoration: none;
+}
+ul{
+    list-style-type:none;
+    display: inline;
+}
+
+button
+{
+display: block;
+}
